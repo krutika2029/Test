@@ -7,11 +7,11 @@ function app() {
       <h1>Hello</h1>
       <Hello></Hello>
       <KgButton></KgButton>
+      {/* <Random></Random>
       <Random></Random>
       <Random></Random>
       <Random></Random>
-      <Random></Random>
-      <Random></Random>
+      <Random></Random> */}
     </div>
   );
 }
